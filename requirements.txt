@@ -1,0 +1,7 @@
+nltk
+wordcloud
+plotly
+matplotlib
+streamlit
+pandas
+seaborn
